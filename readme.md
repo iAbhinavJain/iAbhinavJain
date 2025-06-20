@@ -32,7 +32,7 @@ Crafting meaningful, high-performing digital experiences — and having way too 
 ## 🌍 Recent Open‑Source Projects
 
 - **[astro-book](https://github.com/iAbhinavJain/astro-book)** – Build serverless Astro.js blogs powered by Google Sheets  
-- **[covidresource]**(https://github.com/iAbhinavJain/covidresource) – Open‑source dashboard for COVID-19 resources  
+- **[covidresource](https://github.com/iAbhinavJain/covidresource)** – Open‑source dashboard for COVID-19 resources  
 - **[open-portfolio-theme](https://github.com/iAbhinavJain/open-portfolio-theme)** – Free WordPress theme for portfolio creators  
 
 *Explore more in my repo list!*
