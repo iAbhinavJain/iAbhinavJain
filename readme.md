@@ -7,12 +7,11 @@ Crafting meaningful, high-performing digital experiences — and having way too 
 
 ## 🌟 Highlights
 
-- 💼 7+ years building **custom WordPress sites**, hand‑coded apps, and SEO-driven platforms  
+- 💼 7+ years building **custom sites**, hand‑coded apps, and SEO-driven platforms  
 - 🏆 Featured as **Elementor Expert Creator** (2021), and twice on **Orpetron** (2021 & 2025)  
 - 🥇 Earned **Best CSS Site‑of‑the‑Day** & **WD Web Design Favorite** awards for *Illusic Studios* (2025)  
 - 🎯 Won the **Applied Research Showcase** at Algonquin College (2024) with user‑centered design  
 - ⚡ Built a serverless **Astro.js + Google Sheets CMS tutorial** that went popular  
-- 💡 Founder of **Illusic Studios**: premium brand & web design studio (2020 → 2025 rebrand)
 
 ---
 
@@ -52,8 +51,8 @@ Crafting meaningful, high-performing digital experiences — and having way too 
 ## 🔭 Currently Working On
 
 - 🚀 Launching an **Astro.js SEO tutorial series**  
-- 🌐 Rebuilding *Illusic Studios* as a polished agency brand  
 - 🔁 Automating workflows in **Laravel backends + WordPress APIs**
+- 😀 Being an amazing human being
 
 ---
 
